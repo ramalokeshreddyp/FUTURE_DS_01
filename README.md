@@ -8,6 +8,20 @@
 
 **Future Interns – Data Science & Analytics Internship · Task 1 · 2026**
 
+### 🖥️ Dashboard Preview
+
+| Overview | Revenue Trends |
+|:---:|:---:|
+| ![Overview](screenshots/01_overview.png) | ![Revenue Trends](screenshots/02_revenue_trends.png) |
+
+| Products | Categories |
+|:---:|:---:|
+| ![Products](screenshots/03_products.png) | ![Categories](screenshots/04_categories.png) |
+
+| Regions | Insights |
+|:---:|:---:|
+| ![Regions](screenshots/05_regions.png) | ![Insights](screenshots/06_insights.png) |
+
 > *Transforming 5,000 orders of raw sales data into actionable business intelligence — revenue trends, product rankings, category breakdowns, and regional performance — presented in a fully interactive dashboard.*
 
 </div>
